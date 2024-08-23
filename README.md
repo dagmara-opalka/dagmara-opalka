@@ -1,6 +1,6 @@
 ## Hi there 👋
 Welcome to my GitHub portfolio. Please make yourself at home among my repositories and take a look at what I'm working on :)
-#Some facts about me:
+<br>Some facts about me:
 
 <!--
 **dagmara-opalka/dagmara-opalka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
