@@ -7,7 +7,7 @@ Welcome to my GitHub portfolio. Please make yourself at home among my repositori
 <br>🐱 Personally, I’m a cat person. I enjoy yoga, hiking, and video games 
 
 ## What I use in my projects
-
+(https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
 **dagmara-opalka/dagmara-opalka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
