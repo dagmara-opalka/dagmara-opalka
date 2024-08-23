@@ -6,6 +6,8 @@ Welcome to my GitHub portfolio. Please make yourself at home among my repositori
 <br>🤓I enjoy learning new things, whether it's crocheting or programming—currently, I'm learning frontend development under the guidance of <b>my mentor</b> [DevMentor.pl](https://www.linkedin.com/school/devmentor-pl/posts/?feedView=all)
 <br>🐱 Personally, I’m a cat person. I enjoy yoga, hiking, and video games 
 
+##What I use in my projects
+
 
 <!--
 **dagmara-opalka/dagmara-opalka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
