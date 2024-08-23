@@ -1,5 +1,6 @@
 ## Hi there 👋
 Welcome to my GitHub portfolio. Please make yourself at home among my repositories and take a look at what I'm working on :)
+<br>
 <br>Here are some facts about me:
 <br>💻I am a software tester with 6 years of experience who decided to learn frontend development. In my repository, you will find both test automation projects and HTML!
 
