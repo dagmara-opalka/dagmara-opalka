@@ -2,7 +2,7 @@
 Welcome to my GitHub portfolio. Please make yourself at home among my repositories and take a look at what I'm working on :)
 <br>
 <br>Here are some facts about me:
-<br>💻I am a software tester with 6 years of experience who decided to learn frontend development. In my repository, you will find both test automation projects and HTML!
+<br>💻I am a <b>software tester</b> with 6 years of experience who decided to learn <b>frontend development</b>. In my repository, you will find both test automation projects and HTML!
 
 <!--
 **dagmara-opalka/dagmara-opalka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
